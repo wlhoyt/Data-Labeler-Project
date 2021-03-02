@@ -13,7 +13,7 @@ data labeler for practical use.
 
 ## TODO for repo
 - [ ] Create folders for the versions of the labeler in different folders
-- [ ] Add current project to the Git Repo for illustration
+- [x] Add current project to the Git Repo for illustration
 - [ ] Embedded the images into the README
 
 ## TODO for the Astronomy Class project deliverable
